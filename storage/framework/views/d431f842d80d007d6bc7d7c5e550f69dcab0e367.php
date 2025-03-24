@@ -1,0 +1,1 @@
+Slom<?php /**PATH /var/www/resources/views/admin/history.blade.php ENDPATH**/ ?>

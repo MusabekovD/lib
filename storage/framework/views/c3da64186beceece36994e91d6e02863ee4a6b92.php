@@ -1,0 +1,2 @@
+<b><?php echo e($appName, false); ?></b> (<?php echo e($level_name, false); ?>)
+<?php echo e($formatted, false); ?><?php /**PATH /var/www/vendor/grkamil/laravel-telegram-logging/src/views/minimal.blade.php ENDPATH**/ ?>
